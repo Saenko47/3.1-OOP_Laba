@@ -1,0 +1,2 @@
+word: ясч amount in files:1
+word: свыс amount in files:1

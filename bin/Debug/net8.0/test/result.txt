@@ -1,0 +1,150 @@
+Name of user: Dmytro his value is - 1 
+ Time of using: 09.09.1952 0:00:00 
+ Massage:У бібліотеці панувала тиша. Хтось перегортав сторінки книги.
+Name of user: Dmytro his value is - 1 
+ Time of using: 02.09.1958 0:00:00 
+ Massage:Сніг вкрив землю білим килимом. Діти будували сніговика.
+Name of user: Kateryna his value is - 1 
+ Time of using: 24.10.1961 0:00:00 
+ Massage:Море шуміло хвилями. Чайки літали над водою.
+Name of user: Tetiana his value is - 1 
+ Time of using: 22.11.1980 0:00:00 
+ Massage:Вітер хитав гілки дерев. Листя падало на землю.
+Name of user: Volodymyr his value is - 1 
+ Time of using: 29.08.1994 0:00:00 
+ Massage:Собака чекав господаря біля дому. Він радісно махав хвостом.
+Name of user: Dmytro his value is - 1 
+ Time of using: 08.06.1996 0:00:00 
+ Massage:Діти гралися у дворі. Сміх лунав на всю вулицю.
+Name of user: Nadiia his value is - 1 
+ Time of using: 04.02.2000 0:00:00 
+ Massage:Поїзд мчав крізь поля. Вікна вагона відбивали сонце.
+Name of user: Kateryna his value is - 1 
+ Time of using: 08.02.2002 0:00:00 
+ Massage:Море шуміло хвилями. Чайки літали над водою.
+Name of user: Kristina his value is - 1 
+ Time of using: 22.09.2003 0:00:00 
+ Massage:На полі достигала пшениця. Фермери готувалися до жнив.
+Name of user: Nadiia his value is - 1 
+ Time of using: 05.02.2005 0:00:00 
+ Massage:Дощ барабанив по даху. У кімнаті було тепло і затишно.
+Name of user: Kateryna his value is - 1 
+ Time of using: 10.11.2006 0:00:00 
+ Massage:Сніг вкрив землю білим килимом. Діти будували сніговика.
+Name of user: Vladyslav his value is - 1 
+ Time of using: 18.02.2007 0:00:00 
+ Massage:Годинник пробив полудень. У місті стало гамірно.
+Name of user: Nadiia his value is - 2 
+ Time of using: 02.11.1951 0:00:00 
+ Massage:Вечірнє небо вкривалося зорями. Місяць світив яскраво.
+Name of user: Oleh his value is - 2 
+ Time of using: 31.01.1952 0:00:00 
+ Massage:У лісі було тихо. Лише пташки співали свої пісні.
+Name of user: Halyna his value is - 2 
+ Time of using: 11.11.1958 0:00:00 
+ Massage:У лісі було тихо. Лише пташки співали свої пісні.
+Name of user: Vladyslav his value is - 2 
+ Time of using: 08.12.1958 0:00:00 
+ Massage:Діти гралися у дворі. Сміх лунав на всю вулицю.
+Name of user: Bohdan his value is - 2 
+ Time of using: 04.07.1967 0:00:00 
+ Massage:Літак здіймався в небо. Пасажири дивилися у вікна.
+Name of user: Serhii his value is - 2 
+ Time of using: 08.07.1970 0:00:00 
+ Massage:Літак здіймався в небо. Пасажири дивилися у вікна.
+Name of user: Olena his value is - 2 
+ Time of using: 05.01.1978 0:00:00 
+ Massage:Вітер хитав гілки дерев. Листя падало на землю.
+Name of user: Nadiia his value is - 2 
+ Time of using: 01.12.1985 0:00:00 
+ Massage:Сніг вкрив землю білим килимом. Діти будували сніговика.
+Name of user: Dmytro his value is - 2 
+ Time of using: 04.01.1987 0:00:00 
+ Massage:У парку грала музика. Закохані пари прогулювались алеями.
+Name of user: Tetiana his value is - 2 
+ Time of using: 01.02.1990 0:00:00 
+ Massage:Собака чекав господаря біля дому. Він радісно махав хвостом.
+Name of user: Volodymyr his value is - 2 
+ Time of using: 20.12.1994 0:00:00 
+ Massage:Діти гралися у дворі. Сміх лунав на всю вулицю.
+Name of user: Andriy his value is - 2 
+ Time of using: 14.11.1997 0:00:00 
+ Massage:У лісі було тихо. Лише пташки співали свої пісні.
+Name of user: Kristina his value is - 2 
+ Time of using: 22.04.1999 0:00:00 
+ Massage:Поїзд мчав крізь поля. Вікна вагона відбивали сонце.
+Name of user: Vladyslav his value is - 2 
+ Time of using: 06.10.2000 0:00:00 
+ Massage:Годинник пробив полудень. У місті стало гамірно.
+Name of user: Iryna his value is - 2 
+ Time of using: 29.06.2003 0:00:00 
+ Massage:На річці плавали качки. Вода мерехтіла на сонці.
+Name of user: Andriy his value is - 2 
+ Time of using: 27.04.2010 0:00:00 
+ Massage:Сонце зійшло над містом. Люди поспішали на роботу.
+Name of user: Kateryna his value is - 2 
+ Time of using: 13.01.2011 0:00:00 
+ Massage:У бібліотеці панувала тиша. Хтось перегортав сторінки книги.
+Name of user: Halyna his value is - 2 
+ Time of using: 08.12.2011 0:00:00 
+ Massage:Кіт солодко спав на підвіконні. Йому снилися цікаві сни.
+Name of user: Maksym his value is - 2 
+ Time of using: 17.10.2013 0:00:00 
+ Massage:Ранок почався з кави. Вона додала сил на весь день.
+Name of user: Dmytro his value is - 2 
+ Time of using: 18.06.2017 0:00:00 
+ Massage:Годинник пробив полудень. У місті стало гамірно.
+Name of user: Mariia his value is - 2 
+ Time of using: 26.12.2018 0:00:00 
+ Massage:У бібліотеці панувала тиша. Хтось перегортав сторінки книги.
+Name of user: Sofiia his value is - 2 
+ Time of using: 26.02.2020 0:00:00 
+ Massage:Море шуміло хвилями. Чайки літали над водою.
+Name of user: Petro his value is - 2 
+ Time of using: 07.02.2021 0:00:00 
+ Massage:Дощ барабанив по даху. У кімнаті було тепло і затишно.
+Name of user: Tetiana his value is - 2 
+ Time of using: 17.06.2022 0:00:00 
+ Massage:Дощ барабанив по даху. У кімнаті було тепло і затишно.
+Name of user: Maksym his value is - 2 
+ Time of using: 05.04.2023 0:00:00 
+ Massage:Собака чекав господаря біля дому. Він радісно махав хвостом.
+Name of user: Tetiana his value is - 3 
+ Time of using: 12.04.1955 0:00:00 
+ Massage:Годинник пробив полудень. У місті стало гамірно.
+Name of user: Kateryna his value is - 3 
+ Time of using: 24.11.1958 0:00:00 
+ Massage:Ранок почався з кави. Вона додала сил на весь день.
+Name of user: Iryna his value is - 3 
+ Time of using: 13.05.1964 0:00:00 
+ Massage:Собака чекав господаря біля дому. Він радісно махав хвостом.
+Name of user: Vladyslav his value is - 3 
+ Time of using: 30.01.1973 0:00:00 
+ Massage:Хмари закривали небо. Наближалася гроза.
+Name of user: Olena his value is - 3 
+ Time of using: 18.01.1978 0:00:00 
+ Massage:Літак здіймався в небо. Пасажири дивилися у вікна.
+Name of user: Tetiana his value is - 3 
+ Time of using: 08.01.1980 0:00:00 
+ Massage:Літак здіймався в небо. Пасажири дивилися у вікна.
+Name of user: Bohdan his value is - 3 
+ Time of using: 07.07.1983 0:00:00 
+ Massage:Хмари закривали небо. Наближалася гроза.
+Name of user: Anastasiia his value is - 3 
+ Time of using: 12.12.1995 0:00:00 
+ Massage:Діти гралися у дворі. Сміх лунав на всю вулицю.
+Name of user: Iryna his value is - 3 
+ Time of using: 07.03.2003 0:00:00 
+ Massage:У лісі було тихо. Лише пташки співали свої пісні.
+Name of user: Kristina his value is - 3 
+ Time of using: 01.06.2011 0:00:00 
+ Massage:На кухні пахло свіжим хлібом. Господиня радо усміхалася.
+Name of user: Yurii his value is - 3 
+ Time of using: 11.10.2012 0:00:00 
+ Massage:У лісі було тихо. Лише пташки співали свої пісні.
+Name of user: Volodymyr his value is - 3 
+ Time of using: 10.07.2018 0:00:00 
+ Massage:Поїзд мчав крізь поля. Вікна вагона відбивали сонце.
+Name of user: Serhii his value is - 3 
+ Time of using: 10.09.2019 0:00:00 
+ Massage:У лісі було тихо. Лише пташки співали свої пісні.
