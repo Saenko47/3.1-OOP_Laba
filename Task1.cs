@@ -115,6 +115,33 @@ namespace Laba3._1
                 militaryCards = som.ToList();
             }
         }
+        public void SaveToFileXml(string path, MilitaryCard[] soldeirs)
+        {
+            string? directory = Path.GetDirectoryName(path);
+            if (!string.IsNullOrEmpty(directory) && !Directory.Exists(directory))
+            {
+                Directory.CreateDirectory(directory);
+            }
+            if (!File.Exists(path))
+            {
+                File.Create(path).Close();
+            }
+            ;
+            System.Xml.Serialization.XmlSerializer serializer = new System.Xml.Serialization.XmlSerializer(typeof(MilitaryCard[]));
+            using (StreamWriter writer = new StreamWriter(path))
+            {
+                serializer.Serialize(writer, soldeirs);
+            }
+        }
+        public void LoadFromFileXml(string path)
+        {
+            if (!File.Exists(path)) throw new Exception("File not found");
+            System.Xml.Serialization.XmlSerializer serializer = new System.Xml.Serialization.XmlSerializer(typeof(MilitaryCard[]));
+            using (StreamReader reader = new StreamReader(path))
+            {
+                militaryCards = (MilitaryCard[])serializer.Deserialize(reader);
+            }
+        }
         public void GetDemobilized()
         {
             Console.WriteLine("Input date (e.g., 2024-12-31):");
